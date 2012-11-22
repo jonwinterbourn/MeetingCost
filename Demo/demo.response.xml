@@ -1,6 +1,29 @@
-<rss>
-<item>
-<title>Title this</title>
-<link>Link this</link>
-</item>
+<rss version="2.0" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:rssdatehelper="urn:rssdatehelper">
+        <channel>
+            <title>My sample rss</title>
+            <link>http://unibirmingham.azurewebsites.net</link>
+            <pubDate>Tue, 20 Nov 2012 16:09:12 GMT</pubDate>
+            <generator>umbraco</generator>
+            <description>Add your description here</description>
+            <language>en</language>
+                    <item>
+                        <title>Major power outage on campus</title>
+                        <link>/news/major-power-outage-on-campus.aspx</link>
+                        <pubDate>Tue, 20 Nov 2012 16:09:12 GMT</pubDate>
+                        <guid>/news/major-power-outage-on-campus.aspx</guid>
+                        <content:encoded><![CDATA[<p><strong>Updated Monday 19 November 12:05hrs</strong></p>
+<p>Power has been resorted across campus following another significant power loss over the weekend which also affected a number of IT services.</p>
+<p>Staff and students are advised to attend work/lectures as normal on Monday 19 November.  The Main Library and Learning Centre are open as normal.</p>
+<p><strong>Staff and students are also reminded to continue to reduce energy consumption where possible and switch off non-essential electrical appliances.</strong></p>
+<p>Western Power are continuing to replace the damaged infrastructure following the explosion on Tuesday 6 November.  It is hoped that full mains supplies from the National Grid will be returned to campus towards the end of this week. Once it has been confirmed that we can facilitate the switch from generators to mains, we will make detailed arrangements with building managers to reduce disruption as far as possible. Updates will continue to be posted on this webpage.</p>
+<p>Updates also on twitter (<a href="http://www.twitter.com/unibirmingham">www.twitter.com/unibirmingham)</a> and facebook (<a href="http://www.facebook.com/unibirmingham">www.facebook.com/unibirmingham</a>).</p>
+<p><strong>Lifts</strong></p>
+<p>The following lifts are currently out of order:</p>
+<p>Arts Building - left hand passenger<br /> Haworth - right hand passenger<br /> University Centre - goods lift<br /> Gisbert Kapp Building – floor goods lift no. 3<br /> 3 Elms Road lift     </p>]]></content:encoded>
+                    </item>
+        </channel>
 </rss>
